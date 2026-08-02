@@ -6,6 +6,6 @@ Repositorio creado para practicar el uso de ramas y Pull Requests en Git y GitHu
 
 ## Catálogo de productos
 
--- Balón de fútbol - Q150
+- Balón de fútbol - Q150 (20% de descuento)
 - Camiseta deportiva
 - Tenis para correr
